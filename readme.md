@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a short quiz that allowed me to practice my Javascript skills. It is a timed quiz on simple knowledge known by the average valorant player. If the user doesn't know the answer, they should at the end of the quiz!
+This is a short quiz that allowed me to practice my Javascript ad WebAPI skills. It is a timed quiz on simple knowledge known by the average valorant player. If the user doesn't know the answer, they should at the end of the quiz!
 
 ## Usage
 
