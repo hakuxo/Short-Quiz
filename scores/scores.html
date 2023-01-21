@@ -6,9 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- css stylesheet link -->
     <link rel="stylesheet" href="/assets/style.css"> 
+    <link rel="stylesheet" href="/scores/scores.css">
     <title>Highscores</title>
 </head>
 <body>
-    
+    <div class="container"> 
+        <div id="highScores" class="flex-center flex-column">
+            <h1 id="endScore">Leaderboard</h1>
+            <!-- open p tag that allows js to flow in and write into -->
+            <p id="scoreList"></p>
+            <!-- Button that takes you back to the home page -->
+            <a href="/main.html" class="btn">Home</a>
+            <!-- Clear button to clear leaderboard -->
+            <button>Clear</button>
+        </div>
+    </div>
+    <!-- Javascript link -->
+    <script src="/scores/scores.js"></script>
 </body>
 </html>
