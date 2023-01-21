@@ -1,3 +1,7 @@
+// Enter code here
+
+
+// Progress bar js 
 const progressBarContainer = document.querySelector('.progress-bar__container');
 const progressBar = document.querySelector('.progress-bar');
 const progressBarText = document.querySelector('.progress-bar__text');
